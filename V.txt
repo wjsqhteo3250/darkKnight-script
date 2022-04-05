@@ -1789,7 +1789,7 @@ and who will that be?
 you, Mr. Creedy.
 a man as smart as you
 has probably considered this.
-and as smart as you probably has a plan.
+a man as smart as you probably has a plan.
 that plan is the reason
 Sutler no longer trusts you.
 it's the reason why you're being
